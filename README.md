@@ -97,7 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://github.com/szrokmn/check-out)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif)
+<!-- [Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://github.com/szrokmn/check-out)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif) -->
 
 
 
