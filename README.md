@@ -77,11 +77,11 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=burakustunnn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=TugbaGokalp&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakustunnn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugbaGokalp&theme=blue-green"
      alt=""
      /> <br/>
 
