@@ -67,23 +67,11 @@
       />
 
 </div>
-</br>
+// </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
 
-<br/>
 
-<h2 align="center">💡Most Used Language</h2>
-<div  align="center">
-<br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=TugbaGokalp&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugbaGokalp&theme=blue-green"
-     alt=""
-     /> <br/>
 
 
 
