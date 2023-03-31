@@ -2,7 +2,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Tuğba
 
-<font color="pink"> 🐱🏍 I'm Energy Systems Engineer but I find myself in software. </font>
+<font color="pink"> 🐱 I'm Energy Systems Engineer but I find myself in software. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
@@ -83,7 +83,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 ### 💻 Profile Stats
 
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="TugbaGokalp's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TugbaGokalp&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Tugba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugbaGokalp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 ### 🔥 Streak Stats
