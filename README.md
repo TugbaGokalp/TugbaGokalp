@@ -1,5 +1,11 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
+
+<p align="center">
+  <a href="https://github.com/TugbaGokalp/TugbaGokalp"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Tugba;I+am+a+Frontend+Developer></a>
+</p>
+
+
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Tuğba
 
 <font color="pink"> 🐱 I'm Energy Systems Engineer but I find myself in software. </font>
