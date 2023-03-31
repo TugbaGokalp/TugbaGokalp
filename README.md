@@ -71,36 +71,17 @@
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
 
-###
-
-Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-<!-- [Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://github.com/szrokmn/check-out)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif) -->
 
 
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<img alt="TugbaGokalp's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TugbaGokalp&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Tugba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugbaGokalp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-
-### 🔥 Streak Stats
-
-![TugbaGokalp's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=TugbaGokalp&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="TugbaGokalp's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=TugbaGokalp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ------
 Credit: [TugbaGokalp](https://github.com/TugbaGokalp)
 
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 
 
