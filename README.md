@@ -68,15 +68,9 @@
 
 </div>
 // </br>
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <h2 align="center">My Projects</h2>
 
-
-
-
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ------
 Credit: [TugbaGokalp](https://github.com/TugbaGokalp)
