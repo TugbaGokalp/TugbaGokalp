@@ -52,6 +52,12 @@
         alt="Sass"
       />
 </br>
+<img
+        src="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
+        alt="Firebase"
+      />
+</br>
+
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
